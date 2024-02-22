@@ -16,7 +16,7 @@
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>libs/</classpathPrefix>
 							<mainClass>
-								maven.Menu
+								Menu
 							</mainClass>
 						</manifest>
 					</archive>
